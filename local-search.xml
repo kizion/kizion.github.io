@@ -5,8 +5,8 @@
   
   <entry>
     <title>測試1</title>
-    <link href="/2023/12/09/my-first-blog/"/>
-    <url>/2023/12/09/my-first-blog/</url>
+    <link href="/article/my-first-blog/"/>
+    <url>/article/my-first-blog/</url>
     
     <content type="html"><![CDATA[<h1 id="Heading-level-1"><a href="#Heading-level-1" class="headerlink" title="Heading level 1"></a>Heading level 1</h1><h2 id="Heading-level-2"><a href="#Heading-level-2" class="headerlink" title="Heading level 2"></a>Heading level 2</h2><h3 id="Heading-level-3"><a href="#Heading-level-3" class="headerlink" title="Heading level 3"></a>Heading level 3</h3><h4 id="Heading-level-4"><a href="#Heading-level-4" class="headerlink" title="Heading level 4"></a>Heading level 4</h4><h5 id="Heading-level-5"><a href="#Heading-level-5" class="headerlink" title="Heading level 5"></a>Heading level 5</h5><h6 id="Heading-level-6"><a href="#Heading-level-6" class="headerlink" title="Heading level 6"></a>Heading level 6</h6><p>This text is <em><strong>really important</strong></em>.</p><p>A<em>cat</em>meow</p><ol><li><p>First item</p></li><li><p>Second item</p></li><li><p>Third item</p></li><li><p>Fourth item</p></li><li><p>First item</p></li><li><p>Second item</p></li><li><p>Third item</p><ol><li>Indented item</li><li>Indented item</li></ol></li><li><p>Fourth item</p></li></ol><ul><li>First item</li><li>Second item</li><li>Third item</li><li>Fourth item</li></ul><ul><li><p>This is the first list item.</p></li><li><p>Here’s the second list item.</p><p>  I need to add another paragraph below the second list item.</p></li><li><p>And here’s the third list item.</p></li></ul><ol><li><p>Open the file containing the Linux mascot.</p></li><li><p>Marvel at its beauty.</p><p> <img src="/img/article/20231209/test-img.jpg" alt="test"></p></li><li><p>Close the file.</p></li></ol>]]></content>
     
